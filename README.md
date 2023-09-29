@@ -4,8 +4,11 @@ A simple implementation of Conway’s Game of Life written in Pygame.  Allows fo
 
 ## Controls
 Mouse: draw on the game board, flipping the state of cells that are drawn over.  Best used when the game is paused, though it does work even when the game is running.
+
 Space: Play/pause.
+
 Enter: Randomly populate the center region of the game board.
+
 Backspace: Clear the game board.
 
 ## Quick Start
